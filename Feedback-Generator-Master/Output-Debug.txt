@@ -1,0 +1,15 @@
+﻿The thread 0x3548 has exited with code 0 (0x0).
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\Users\km1016\Downloads\Feedback-Generator-userstory1v3 (1)\Feedback-Generator-userstory1v3\Feedback-Generator-userstory1v3\Feedback-Generator-UserStoryOnev2\Template_Designer\bin\Debug\Template_Designer.exe'. Symbols loaded.
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x42f0 has exited with code 0 (0x0).
+The thread 0x3e64 has exited with code 0 (0x0).
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'. Cannot find or open the PDB file.
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Template_Designer.vshost.exe' (CLR v4.0.30319: Template_Designer.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+n-1
+The thread 0x294 has exited with code 0 (0x0).
+The thread 0x65c has exited with code 0 (0x0).
+The program '[9440] Template_Designer.vshost.exe' has exited with code 0 (0x0).

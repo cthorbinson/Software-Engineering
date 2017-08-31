@@ -1,0 +1,22 @@
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\bin\Debug\Template_Designer.exe.config
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\bin\Debug\Template_Designer.exe
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\bin\Debug\Template_Designer.pdb
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.csprojResolveAssemblyReference.cache
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.TemplateSelector.resources
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.Properties.Resources.resources
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.csproj.GenerateResource.Cache
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.exe
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.pdb
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.CreateTemplate.resources
+c:\users\jt743\documents\visual studio 2015\Projects\Template_Designer\Template_Designer\obj\Debug\Template_Designer.CreateTemplateSections.resources
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\bin\Debug\Template_Designer.exe.config
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\bin\Debug\Template_Designer.exe
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\bin\Debug\Template_Designer.pdb
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.CreateTemplate.resources
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.CreateTemplateSections.resources
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.TemplateSelector.resources
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.Properties.Resources.resources
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.exe
+C:\Users\colin\Desktop\SoftwareEng\IntergrateDB\Template_Designer\obj\Debug\Template_Designer.pdb
